@@ -1,0 +1,38 @@
+
+
+insert 1
+
+
+
+Seminar Title
+
+
+2024-04-26 2 100 200 50
+
+keyword1 keyword2 keyword3
+
+
+
+
+This is a description for the seminar.
+
+delete 2
+
+search 3
+
+print hashtable
+
+print blocks
+
+insert 99
+Seminar Title 99
+2024-04-26 29 109 209 59
+keyword99 keyword99 keyword88 aka
+This is a description for the seminar.
+
+
+
+
+
+
+
